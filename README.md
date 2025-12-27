@@ -8,44 +8,18 @@
 
 ## What This Formalizes
 
-This repository provides machine-checked proofs of properties in the Exchange Protocol:
-
-1. **Core Types** (`Core.lean`)
-   - RecordEnvelope with attestations, timestamps, CTags
-   - Entity records with multiple identifier schemes
-   - Relationship records (bilateral/multilateral)
-   - Exchange records with provenance chains
-
-2. **Graph Structures** (`Graphs.lean`)
-   - CEP graphs of entities, relationships, exchanges
-   - Well-formedness predicates
-   - Provenance chain extraction
-   - Theorems: finite chains, resolvable references
-
-3. **Attestation Properties** (`Attestations.lean`)
-   - Multi-party attestation
-   - Temporal ordering of attestations
-   - Theorems: well-formed records have attestations
-
-4. **Context Tags** (`CTags.lean`)
-   - Interpretive metadata without identity changes
-   - GDPR-relevant properties (human review, disputed facts)
-   - Theorems: CTags preserve canonical identity
-
-## Key Theorems
-```lean
--- Every exchange has traceable provenance
-theorem exchange_has_provenance
-
--- Exchange chains are finite (no infinite loops)
-axiom exchange_chain_finite
-
--- Well-formed records have attestations
-theorem wellformed_has_attestation
-
--- CTags preserve canonical identity
-axiom ctags_preserve_identity
-```
+This repository provides a Lean 4 formalization
+of the structural core of the Exchange Protocol,
+including canonical record schemas for
+entities, relationships, and exchanges;
+a shared RecordEnvelope; 
+retention-policy data shapes; 
+and basic graph-oriented data structures.
+The code machine-checks the well-formedness and 
+typing of these structures and verifies that 
+the protocol's core representations are 
+internally consistent and composable, 
+without embedding causal, normative, or policy interpretations.
 
 ## Build and Run
 
