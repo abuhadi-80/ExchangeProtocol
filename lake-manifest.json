@@ -1,0 +1,15 @@
+{"version": "1.1.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"url": "https://github.com/civic-interconnect/AccountableEntities.git",
+   "type": "git",
+   "subDir": null,
+   "scope": "",
+   "rev": "9b67dfdd5a89b6ef57700ba8cb990d787effbb06",
+   "name": "AccountableEntities",
+   "manifestFile": "lake-manifest.json",
+   "inputRev": "main",
+   "inherited": false,
+   "configFile": "lakefile.toml"}],
+ "name": "ExchangeProtocol",
+ "lakeDir": ".lake"}

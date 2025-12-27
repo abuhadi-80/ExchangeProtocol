@@ -1,0 +1,5 @@
+import StructuralExplainability.ExchangeProtocol.Core.Shared.RecordEnvelope
+import StructuralExplainability.ExchangeProtocol.Core.Shared.RecordEnvelopeOps
+
+namespace StructuralExplainability.ExchangeProtocol.Core.Shared
+end StructuralExplainability.ExchangeProtocol.Core.Shared

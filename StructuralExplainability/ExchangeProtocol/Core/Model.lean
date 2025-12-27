@@ -1,0 +1,7 @@
+import StructuralExplainability.ExchangeProtocol.Core.Model.Consent
+import StructuralExplainability.ExchangeProtocol.Core.Model.CTag
+import StructuralExplainability.ExchangeProtocol.Core.Model.IdentifierScheme
+import StructuralExplainability.ExchangeProtocol.Core.Model.Retention
+
+namespace StructuralExplainability.ExchangeProtocol.Core.Model
+end StructuralExplainability.ExchangeProtocol.Core.Model

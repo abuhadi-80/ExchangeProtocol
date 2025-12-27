@@ -1,0 +1,4 @@
+import StructuralExplainability.ExchangeProtocol.Vocabulary.Vocabulary
+
+namespace StructuralExplainability.ExchangeProtocol.Vocabulary
+end StructuralExplainability.ExchangeProtocol.Vocabulary

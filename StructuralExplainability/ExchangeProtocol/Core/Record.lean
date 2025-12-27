@@ -1,0 +1,16 @@
+import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityExamples
+import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityOps
+import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityRecord
+import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityValidation
+import StructuralExplainability.ExchangeProtocol.Core.Record.Relationship.RelationshipExamples
+import StructuralExplainability.ExchangeProtocol.Core.Record.Relationship.RelationshipOps
+import StructuralExplainability.ExchangeProtocol.Core.Record.Relationship.RelationshipRecord
+import StructuralExplainability.ExchangeProtocol.Core.Record.Relationship.RelationshipValidation
+import StructuralExplainability.ExchangeProtocol.Core.Record.Exchange.ExchangeExamples
+import StructuralExplainability.ExchangeProtocol.Core.Record.Exchange.ExchangeOps
+import StructuralExplainability.ExchangeProtocol.Core.Record.Exchange.ExchangeRecord
+import StructuralExplainability.ExchangeProtocol.Core.Record.Exchange.ExchangeValidation
+import StructuralExplainability.ExchangeProtocol.Core.Record.Shared.EntityRef
+
+namespace StructuralExplainability.ExchangeProtocol.Core.Record
+end StructuralExplainability.ExchangeProtocol.Core.Record
